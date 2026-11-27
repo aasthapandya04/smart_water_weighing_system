@@ -30,7 +30,6 @@
 - [🧪 Usage](#-usage)
 - [📁 Folder Structure](#-folder-structure)
 - [🔮 Future Scope](#-future-scope)
-- [🙌 Credits](#-credits)
 
 ---
 
@@ -228,20 +227,3 @@ smart_water_weighing_system/
 - 🧠 Leak and wastage detection using data analytics
 - 🔋 Battery and solar powered version
 - 🗣️ Voice or multi-language display
-
----
-
-## 🙌 Credits
-
-- 👨‍💻 Original project by **[rishirena](https://github.com/rishirena/smart-water-weighing-system)**
-- 📚 Cloned and maintained by **[aasthapandya04](https://github.com/aasthapandya04)**
-
----
-
-<div align="center">
-
-⭐ **If you found this useful, give the repo a star!** ⭐
-
-Made with 💙 and a lot of 💧
-
-</div>
