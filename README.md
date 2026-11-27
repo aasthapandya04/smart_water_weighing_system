@@ -9,7 +9,6 @@
 ![Sensor](https://img.shields.io/badge/sensor-Load%20Cell%20%2B%20HX711-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge)
 
-<!-- 📸 EDIT: put your best project photo at docs/images/banner.png -->
 <img src="docs/images/banner.png" alt="Smart Water Weighing System" width="700"/>
 
 </div>
@@ -58,8 +57,6 @@ Measuring water by hand is slow and often inaccurate. The **Smart Water Weighing
 ---
 
 ## 🧰 Hardware Required
-
-<!-- ✏️ EDIT: change this list to match the parts you actually used -->
 
 | # | Component | Purpose |
 |---|-----------|---------|
@@ -134,8 +131,6 @@ flowchart LR
 
 ## 🔌 Circuit and Connections
 
-<!-- ✏️ EDIT: change pin numbers to match your wiring -->
-
 | HX711 Pin | Connects To |
 |-----------|-------------|
 | VCC | 5 V / 3.3 V |
@@ -150,22 +145,19 @@ flowchart LR
 | ⚪ White | A- |
 | 🟢 Green | A+ |
 
-<!-- 📸 EDIT: add your circuit diagram at docs/images/circuit.png -->
 <img src="docs/images/circuit.png" alt="Circuit Diagram" width="600"/>
 
 ---
 
 ## 📸 Project Images
 
-<!-- 📸 EDIT: save your photos in docs/images/ with these names (or change the names below) -->
-
 | 🔧 Hardware Setup | 📟 Display Output |
 |:---:|:---:|
-| <img src="docs/images/setup.jpg" width="350"/> | <img src="docs/images/display.jpg" width="350"/> |
+| <img src="docs/images/setup.jpg" alt="Hardware Setup" width="350"/> | <img src="docs/images/display.jpg" alt="Display Output" width="350"/> |
 
 | 📊 Dashboard | 🎥 Working Demo |
 |:---:|:---:|
-| <img src="docs/images/dashboard.png" width="350"/> | <img src="docs/images/demo.gif" width="350"/> |
+| <img src="docs/images/dashboard.png" alt="Dashboard" width="350"/> | <img src="docs/images/demo.gif" alt="Working Demo" width="350"/> |
 
 ---
 
@@ -216,8 +208,6 @@ Select your **board** and **COM port**, then click **Upload** ⬆️.
 ---
 
 ## 📁 Folder Structure
-
-<!-- ✏️ EDIT: match this to your real files -->
 
 ```
 smart_water_weighing_system/
